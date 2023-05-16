@@ -6,4 +6,5 @@ public class Dog {
 	// Dog 클래스 생성
 	// Merge with main branch
 	
+	// second commit
 }
