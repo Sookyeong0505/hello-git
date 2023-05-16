@@ -11,6 +11,10 @@ public class Dog {
 	// third commit
 	
 	private void mainBranch() {
+	
+	}
+	
+	private void animal() {
 		
 	}
 }
