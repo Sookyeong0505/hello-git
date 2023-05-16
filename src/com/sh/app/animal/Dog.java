@@ -7,4 +7,6 @@ public class Dog {
 	// Merge with main branch
 	
 	// second commit
+	
+	// third commit
 }
